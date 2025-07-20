@@ -68,7 +68,7 @@ src/
 * Konfigurasi file `config/database.php`
 * Akses aplikasi melalui `http://localhost/music_store`
 
-Detail instalasi lengkap ada di: [`docs/INSTALLATION.md`](docs/INSTALLATION.md)
+Detail instalasi lengkap ada di: [`docs/INSTALLATION.md`](/music_store/docs/INSTALLATION.md)
 
 ---
 
@@ -80,14 +80,14 @@ Database terdiri dari tabel:
 * `orders`, `order_items`, `payments`
 * `shipping_addresses`, `reviews`, `wishlists`, `contacts`
 
-Lihat penjelasan dan ERD di: [`docs/DATABASE.md`](docs/DATABASE.md)
+Lihat penjelasan dan ERD di: [`docs/DATABASE.md`](/music_store/docs/DATABASE.md)
 
 ---
 
 ## 🌐 Panduan Penggunaan
 
 Panduan penggunaan aplikasi oleh customer dan admin ada di:
-[`docs/USAGE.md`](docs/USAGE.md)
+[`docs/USAGE.md`](/music_store/docs/USAGE.md)
 
 ---
 
