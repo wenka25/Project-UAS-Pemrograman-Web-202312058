@@ -103,7 +103,6 @@ Panduan penggunaan aplikasi oleh customer dan admin ada di:
 
 **Wenka**
 📧 [wenkasalinding04@gmail.com](mailto:wenkasalinding04@gmail.com)
-🌐 GitHub: [github.com/wenka25/music_store](https://github.com/wenka25/Project-Pemrograman-Web-202312058.git)
 
 ## 📺 Link Youtube
 Video Penjelasan tentang web: [Link Youtube](https://youtu.be/BtbPgo681Wo)
