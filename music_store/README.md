@@ -1,4 +1,2 @@
-akun admin:
-admin@mail.com
-password admin:
-admin123
+akun admin: admin@mail.com
+Password admin: admin123
