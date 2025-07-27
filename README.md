@@ -110,4 +110,4 @@ Video Penjelasan tentang web: [Link Youtube](https://youtu.be/BtbPgo681Wo)
 ---
 
 ### 🌐 Hosting
-Web Doremigo Music: [doremigomusic.rf.gd](https://doremigomusic.rf.gd/)
+Web Doremigo Music: [doremigomusic.my.id](https://doremigomusic.my.id/)
